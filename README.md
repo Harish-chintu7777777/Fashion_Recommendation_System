@@ -6,5 +6,5 @@ created dataset using the images.
 <br>
 Used Deep Learning Techniques to build the System.
 <br>
-Used VCG16 model to build the model.
+Used VGG16 model to build the model.
 
